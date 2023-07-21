@@ -6,9 +6,9 @@ Programming-JavaScript is a repository dedicated to programming in JavaScript. H
 ## **Repository Structure:**
 /Projects: This folder contains various projects where we focus on JavaScript development. Each project has its own folder with description, source code and project files.
 
-/Scripts: This folder contains ready-made JavaScript scripts that can be useful in various projects and applications.
+/Courses: This folder contains ready-made JavaScript scripts that can be useful in various projects and applications.
 
-/Resources: Here you will find educational resources such as tutorials, guides and articles to help you learn and understand JavaScript and related technologies.
+/Labs: Here you will find educational resources such as tutorials, guides and articles to help you learn and understand JavaScript and related technologies.
 
 ## **How ​​to start:**
 
