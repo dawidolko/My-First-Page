@@ -2,7 +2,7 @@
 redirect_to: js.dawidolko.pl
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=000000&width=600&height=100&lines=J%C4%99zyk+JavaScript)](https://github.com/dawidolko/Programming-JavaScript)
+[![JavaScript](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=000000&width=600&height=100&lines=J%C4%99zyk+JavaScript)](https://github.com/dawidolko/Programming-JavaScript)
 <br>![JS](js.png)
 
 ## Spis treści:
