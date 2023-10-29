@@ -1,27 +1,27 @@
-# Projekty w języku JavaScript
-Witaj w świecie projektów w języku JavaScript! Ten język programowania stał się jednym z najpopularniejszych i najważniejszych narzędzi dla programistów front-end i back-end, umożliwiając tworzenie interaktywnych stron internetowych, aplikacji webowych, serwerów oraz wielu innych zastosowań. Projekty w języku JavaScript oferują niezliczone możliwości, od prostych skryptów po zaawansowane aplikacje.
+# JavaScript projects
+Welcome to the world of JavaScript projects! This programming language has become one of the most popular and important tools for front-end and back-end developers, enabling the creation of interactive websites, web applications, servers and many other applications. JavaScript projects offer countless possibilities, from simple scripts to advanced applications.
 
-## Dlaczego warto uczestniczyć w projektach w języku JavaScript?
-Uniwersalność: JavaScript jest wszechstronnym językiem, który może być używany zarówno po stronie klienta (front-end) jak i po stronie serwera (back-end), dzięki czemu możesz tworzyć pełne rozwiązania oparte na jednym języku.
+## Why participate in JavaScript projects?
+Versatility: JavaScript is a versatile language that can be used both on the client side (front-end) and on the server side (back-end), so you can create complete solutions based on one language.
 
-Interaktywność: JavaScript umożliwia tworzenie interaktywnych i dynamicznych elementów na stronach internetowych, co pozwala na wzbogacenie interakcji użytkowników z aplikacją.
+Interactivity: JavaScript allows you to create interactive and dynamic elements on websites, which allows you to enrich users' interactions with the application.
 
-Popularność i społeczność: JavaScript posiada ogromną i aktywną społeczność, co oznacza dostęp do wielu bibliotek, frameworków i narzędzi, które ułatwiają tworzenie projektów.
+Popularity and Community: JavaScript has a huge and active community, which means access to many libraries, frameworks and tools that make it easy to create projects.
 
-Rozszerzalność: Dzięki JavaScript można łatwo integrować dodatki i rozszerzenia z innymi technologiami webowymi, takimi jak HTML, CSS czy AJAX.
+Extensibility: Thanks to JavaScript, you can easily integrate add-ons and extensions with other web technologies such as HTML, CSS or AJAX.
 
-## Przykładowe projekty:
-Aplikacje webowe: Tworzenie kompletnych aplikacji webowych, takich jak społecznościowe platformy, strony e-commerce, aplikacje do zarządzania zadaniami i wiele innych.
+## Sample projects:
+Web Applications: Build complete web applications such as social networking platforms, e-commerce websites, task management applications and more.
 
-Interaktywne komponenty: Tworzenie interaktywnych i dynamicznych komponentów na stronach, takich jak animowane menu, suwaki, przewijane galerie itp.
+Interactive Components: Create interactive and dynamic components on pages such as animated menus, sliders, scrolling galleries, etc.
 
-Gry internetowe: Projektowanie prostej gry w języku JavaScript, wykorzystując biblioteki i frameworki do renderowania grafiki i obsługi interakcji użytkownika.
+Web Games: Design a simple game in JavaScript using libraries and frameworks for rendering graphics and handling user interactions.
 
-Aplikacje mobilne: Wykorzystywanie JavaScript do tworzenia hybrydowych aplikacji mobilnych, które działają zarówno na iOS, Androidzie jak i na innych platformach mobilnych.
+Mobile Apps: Using JavaScript to create hybrid mobile apps that work on iOS, Android, and other mobile platforms.
 
-Serwery i RESTful API: Tworzenie serwerów i API w języku JavaScript, które umożliwiają komunikację z bazami danych i obsługę żądań klientów.
+Servers and RESTful APIs: Create JavaScript servers and APIs that enable communication with databases and handling client requests.
 
-## Dla kogo są projekty w języku JavaScript?
-Projekty w języku JavaScript są odpowiednie dla wszystkich, którzy interesują się programowaniem webowym i chcą tworzyć dynamiczne, interaktywne i zaawansowane aplikacje. Bez względu na poziom zaawansowania, od początkujących do doświadczonych programistów, projekty w języku JavaScript oferują różnorodne wyzwania i umożliwiają rozwijanie umiejętności.
+## Who are JavaScript projects for?
+JavaScript projects are suitable for anyone who is interested in web programming and wants to create dynamic, interactive and advanced applications. Regardless of your skill level, from beginners to experienced developers, JavaScript projects offer a variety of challenges and opportunities to develop your skills.
 
-Zapraszamy do uczestnictwa w projektach w języku JavaScript i doświadczania potężnego narzędzia, jakim jest JavaScript, w dzisiejszym świecie programowania webowego. Niech te projekty stanowią inspirację do tworzenia innowacyjnych i interaktywnych rozwiązań, które przyczynią się do doskonalenia aplikacji webowych i tworzenia nowoczesnych rozwiązań dla Internetu.
+We invite you to participate in JavaScript projects and experience the powerful tool that JavaScript is in today's world of web programming. Let these projects serve as an inspiration to create innovative and interactive solutions that will contribute to the improvement of web applications and the creation of modern solutions for the Internet.
