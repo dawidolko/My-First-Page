@@ -1,27 +1,27 @@
-# Kursy z języka JavaScript
-Witaj w świecie kursów z języka JavaScript! Kursy z JavaScript są idealnym sposobem na poznanie tego popularnego języka programowania, który jest niezbędny dla każdego programisty zajmującego się tworzeniem stron internetowych, aplikacji webowych oraz serwerów. Dzięki nim zdobędziesz solidne podstawy i zaawansowaną wiedzę, która pozwoli Ci tworzyć interaktywne i dynamiczne strony oraz kompleksowe aplikacje webowe.
+# JavaScript courses
+Welcome to the world of JavaScript courses! JavaScript courses are an ideal way to learn this popular programming language, which is essential for every programmer involved in creating websites, web applications and servers. Thanks to them, you will gain solid foundations and advanced knowledge that will allow you to create interactive and dynamic websites and comprehensive web applications.
 
-## Dlaczego warto uczestniczyć w kursach z języka JavaScript?
-Uniwersalność: JavaScript jest jednym z najważniejszych języków programowania w dziedzinie web developmentu, umożliwiając budowanie zarówno front-endu, jak i back-endu aplikacji. Dzięki jego wszechstronności, zdobędziesz umiejętność tworzenia kompletnych rozwiązań webowych.
+## Why is it worth taking JavaScript courses?
+Versatility: JavaScript is one of the most important programming languages in web development, allowing you to build both front-end and back-end applications. Thanks to its versatility, you will gain the ability to create complete web solutions.
 
-Nachalna nauka: Kursy z JavaScript są odpowiednie zarówno dla początkujących, którzy dopiero zaczynają swoją przygodę z programowaniem, jak i dla doświadczonych programistów, którzy chcą poszerzyć swoje umiejętności.
+Intrusive learning: JavaScript courses are suitable for both beginners who are just starting their programming adventure and for experienced developers who want to expand their skills.
 
-Interaktywne projekty: Kursy często skupiają się na praktycznym podejściu, co pozwala na tworzenie własnych projektów i rozwiązywanie realnych problemów, co przyspiesza naukę.
+Interactive projects: Courses often focus on a practical approach, which allows you to create your own projects and solve real problems, which accelerates learning.
 
-Dostępność zasobów: JavaScript posiada ogromną społeczność programistyczną, co oznacza, że ​​masz dostęp do licznych tutorali, dokumentacji i bibliotek, które ułatwiają naukę.
+Resource Availability: JavaScript has a huge developer community, which means you have access to numerous tutorials, documentation, and libraries to make learning easier.
 
-## Przykładowe tematy kursów:
-Podstawy JavaScript: Nauka składni, typów danych, zmiennych, operatorów, funkcji i innych fundamentalnych aspektów języka.
+## Sample course topics:
+JavaScript Basics: Learn syntax, data types, variables, operators, functions, and other fundamental aspects of the language.
 
-Programowanie front-endu: Poznanie technologii webowych takich jak HTML i CSS, aby móc budować interaktywne i atrakcyjne interfejsy użytkownika.
+Front-end programming: Learning web technologies such as HTML and CSS to be able to build interactive and attractive user interfaces.
 
-Frameworki i biblioteki: Uczenie się popularnych frameworków i bibliotek JavaScript, takich jak React, Vue.js czy Angular, które ułatwiają tworzenie skomplikowanych aplikacji webowych.
+Frameworks and Libraries: Learning popular JavaScript frameworks and libraries, such as React, Vue.js, and Angular, that make it easier to build complex web applications.
 
-Komunikacja z serwerem: Poznanie AJAX i REST API, które umożliwiają komunikację z serwerem i wymianę danych z bazami danych.
+Communication with the server: Learning AJAX and REST API, which enable communication with the server and exchange of data with databases.
 
-Testowanie i optymalizacja: Nauczenie się testowania aplikacji JavaScript oraz optymalizacji kodu w celu zapewnienia wysokiej wydajności.
+Testing and Optimization: Learn to test JavaScript applications and optimize code for high performance.
 
-## Dla kogo są kursy z języka JavaScript?
-Kursy z języka JavaScript są odpowiednie dla wszystkich, którzy są zainteresowani tworzeniem stron internetowych, aplikacji webowych i serwerów. Bez względu na poziom doświadczenia, kursy oferują szansę na naukę wszechstronnego języka programowania, który jest niezbędny w dzisiejszym świecie technologii.
+## Who are JavaScript courses for?
+JavaScript courses are suitable for anyone interested in creating websites, web applications and servers. Regardless of your experience level, courses offer the chance to learn a versatile programming language that is essential in today's technology world.
 
-Zapraszamy do uczestnictwa w kursach z języka JavaScript i rozwijania swoich umiejętności programistycznych, które umożliwią Ci tworzenie nowoczesnych i dynamicznych rozwiązań webowych. Niech te kursy stanowią inspirację do poznania JavaScriptu, odkrycia jego potencjału i wykorzystania go w praktyce.
+We invite you to participate in JavaScript courses and develop your programming skills, which will enable you to create modern and dynamic web solutions. Let these courses inspire you to learn JavaScript, discover its potential and use it in practice.
