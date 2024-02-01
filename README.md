@@ -16,9 +16,9 @@ Our website is a place where you can find inspiration, gain new skills and expan
 
 - Community: Dawidolko.pl is also a community of enthusiasts who share their achievements, inspirations and ideas. You can join our community, comment on posts, share your ideas and make new contacts with people with similar interests.
 
-I invite you to visit the website `Dawidolko.pl` and discover all the fascinating content that I have prepared for you. Have fun, gain new knowledge and get inspired on my website!
+I invite you to visit the website `firstPage.dawidolko.pl` and discover all the fascinating content that I have prepared for you. Have fun, gain new knowledge and get inspired on my website!
 
-"Discover, learn, inspire!" - Dawidolko.pl
+"Discover, learn, inspire!" - firstPage.dawidolko.pl
 
 ## 📫 How to contact me
 
